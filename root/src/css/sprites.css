@@ -1,0 +1,22 @@
+/* SPRITES IMAGES */
+
+.imgPartes01, .imgPartes02{
+    /* border:1px solid #000; */
+    width: 300px;
+    height:200px;
+    background-image: url(/root/images/28386.jpg);
+    background-size: 300%;
+}
+.imgPartes01{
+    background-position: -580px 0;
+}
+.imgPartes02{
+    background-position: -290px -190px; 
+}
+.imgModelo{
+    width:50%;
+    margin:20px 0;
+}
+.imgModelo img{
+    width:100%;
+}
